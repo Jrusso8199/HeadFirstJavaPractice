@@ -1,1 +1,1 @@
-# This is the REpo for my practice items for Head First Java
+# This is the Repo for my practice items for Head First Java
